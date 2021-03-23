@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mokshkori
 <!--- 👀 I’m interested in --->
-- 🌱 I’m currently learning springboot, react.js advanced data structures
+- 🌱 I’m currently learning springboot, react.js & advanced data structures
 
 - 📫 Reach out to me at https://www.linkedin.com/in/moksh-k-284744a3/
 
